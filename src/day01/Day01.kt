@@ -1,3 +1,7 @@
+package day01
+
+import readInput
+
 fun main() {
 
     fun countIncrease(input: List<Int>): Int {
